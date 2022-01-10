@@ -179,7 +179,6 @@ button img {
   body {
     min-height: max-content;
     flex-direction: column-reverse;
-    overflow-y: hidden;
   }
 
   header {
