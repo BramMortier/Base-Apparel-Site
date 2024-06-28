@@ -1,3 +1,3 @@
-## Base Apparel Page
+## Base Apparel Site
 
-![ae67ohzys48frbejvyce](https://github.com/BramMortier/Frontend-Mentor-Base-apparel-page/assets/79015250/081a1081-da6a-4ab9-81a2-5cb16a7c6566)
+![oxwdbpj64r1au0gp1frc](https://github.com/BramMortier/Base-Apparel-Site/assets/79015250/a47c9459-8ded-46a4-959a-0697a2b722dc)
